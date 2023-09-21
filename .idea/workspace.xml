@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f8b42b2-a999-4a78-b80a-07a020f0dfd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/integration/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="html-chall-2" />
+                    <option name="lastUsedInstant" value="1695285992" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="html-chall-1" />
                     <option name="lastUsedInstant" value="1695285811" />
@@ -70,7 +76,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "html-chall-1",
+    "git-widget-placeholder": "html-chall-2",
     "ignore_missing_gitignore": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
