@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f8b42b2-a999-4a78-b80a-07a020f0dfd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7f8b42b2-a999-4a78-b80a-07a020f0dfd8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +25,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="test" />
-                    <option name="lastUsedInstant" value="1695214452" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1695285649" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1695214206" />
+                    <option name="branchName" value="test" />
+                    <option name="lastUsedInstant" value="1695214452" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="branch" />
@@ -66,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "test",
+    "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +86,7 @@
       <workItem from="1695141476899" duration="10000" />
       <workItem from="1695195227666" duration="18000" />
       <workItem from="1695211242158" duration="3668000" />
+      <workItem from="1695285484528" duration="222000" />
     </task>
     <servers />
   </component>
